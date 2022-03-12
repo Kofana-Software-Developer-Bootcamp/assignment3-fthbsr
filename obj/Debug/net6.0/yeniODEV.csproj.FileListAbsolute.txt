@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/yeniODEV/bin/Debug/net6.0/yeniODEV
+/Users/fatihbasar/Desktop/yeniODEV/bin/Debug/net6.0/yeniODEV.deps.json
+/Users/fatihbasar/Desktop/yeniODEV/bin/Debug/net6.0/yeniODEV.runtimeconfig.json
+/Users/fatihbasar/Desktop/yeniODEV/bin/Debug/net6.0/yeniODEV.dll
+/Users/fatihbasar/Desktop/yeniODEV/bin/Debug/net6.0/yeniODEV.pdb
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.dll
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/refint/yeniODEV.dll
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.pdb
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/yeniODEV.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/yeniODEV/obj/Debug/net6.0/ref/yeniODEV.dll
